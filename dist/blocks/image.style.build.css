@@ -1,0 +1,8 @@
+@media (max-width: 980px) {
+	img {
+		max-width: 100% !important;
+	}
+}
+.imc amp-img {
+	width: 100%;
+}
